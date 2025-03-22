@@ -1,0 +1,16 @@
+python==3.12.0
+fastAPI
+fastapi
+uvicorn
+torch
+spacy
+numpy
+pandas
+scikit-learn
+sentence-transformers
+openpyxl
+sqlalchemy
+pymysql
+jinja2
+chardet
+python-multipart
