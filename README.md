@@ -28,21 +28,21 @@ This project automates file validation using Python, FastAPI, and SQL. It detect
    ```sh
    python main.py
 
-Usage:
-> Upload files for validation through the web interface.
-> View detected anomalies and provide feedback.
-> The system refines regex patterns dynamically based on feedback.
+## Usage:
+- Upload files for validation through the web interface.
+- View detected anomalies and provide feedback.
+- The system refines regex patterns dynamically based on feedback.
 
-Technologies Used:
-> Python – Core programming language
-> FastAPI – Backend framework
-> SQL – Database for storing feedback
-> NLP – Used for column type detection
-> Regex – For structured validation
-> HTML, CSS, JavaScript – Web interface
+## Technologies Used:
+- Python – Core programming language
+- FastAPI – Backend framework
+- SQL – Database for storing feedback
+- NLP – Used for column type detection
+- Regex – For structured validation
+- HTML, CSS, JavaScript – Web interface
 
-Contributing: 
+## Contributing: 
 If you'd like to contribute, feel free to fork the repository, create a feature branch, and submit a pull request.
 
-License:
+## License:
 This project is open-source under the MIT License.
